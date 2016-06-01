@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubDiver.Android", "SubDiver\SubDiver.Android\SubDiver.Android.csproj", "{ABEA3150-DD9B-4C28-B99B-42681B610B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubDiver.Common", "SubDiver\SubDiver.Common\SubDiver.Common.csproj", "{56204F7D-215E-4B27-BA9E-0F3EAF3A5757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56204F7D-215E-4B27-BA9E-0F3EAF3A5757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56204F7D-215E-4B27-BA9E-0F3EAF3A5757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56204F7D-215E-4B27-BA9E-0F3EAF3A5757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56204F7D-215E-4B27-BA9E-0F3EAF3A5757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABEA3150-DD9B-4C28-B99B-42681B610B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEA3150-DD9B-4C28-B99B-42681B610B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEA3150-DD9B-4C28-B99B-42681B610B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEA3150-DD9B-4C28-B99B-42681B610B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
